@@ -13,4 +13,4 @@ Super Resolution GAN is an extension to DCGAN which converts low resolution Imag
 ![lr](https://user-images.githubusercontent.com/41950483/71823526-70582b00-30bd-11ea-83ed-d493cb2546bc.png)
 
 ## DCGAN Output
-![dcimage](https://user-images.githubusercontent.com/41950483/71823614-a4cbe700-30bd-11ea-84cc-b6cdf8994c5b.png)<br/>
+![dcimage](https://user-images.githubusercontent.com/41950483/71823734-feccac80-30bd-11ea-9f48-2052bf205890.png)
